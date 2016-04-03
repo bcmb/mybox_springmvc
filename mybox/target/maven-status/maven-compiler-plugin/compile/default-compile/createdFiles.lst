@@ -1,0 +1,5 @@
+com\insart\controllers\FilesController.class
+com\insart\services\FileExplorer.class
+com\insart\controllers\ApplicationIntitalizer.class
+com\insart\services\FileExplorerImpl.class
+com\insart\config\WebConfig.class
